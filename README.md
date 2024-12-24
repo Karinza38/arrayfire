@@ -1,4 +1,4 @@
-<p align="center"><a href="http://arrayfire.com/"><img src="http://arrayfire.com/logos/arrayfire_logo_whitebkgnd.png" width="800"></a></p>
+ >p align="center"><a href="http://arrayfire.com/"><img src="http://arrayfire.com/logos/arrayfire_logo_whitebkgnd.png" width="800"></a></p>
 
 ArrayFire is a general-purpose tensor library that simplifies the software
 development process for the parallel architectures found in CPUs, GPUs, and
